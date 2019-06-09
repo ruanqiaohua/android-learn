@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_username">USERNAME</string>
+    <string name="edit_password">PASSWORD</string>
+    <string name="edit_password_again">Password again</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="getUserInfo">Button</string>
+    <string name="username">username</string>
+</resources>
